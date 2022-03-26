@@ -1,0 +1,60 @@
+C:\Users\KIMU\AppData\Local\Temporary Projects\KcciImageEditor\bin\Debug\KcciImageEditor.exe
+C:\Users\KIMU\AppData\Local\Temporary Projects\KcciImageEditor\bin\Debug\KcciImageEditor.pdb
+C:\Users\KIMU\AppData\Local\Temporary Projects\KcciImageEditor\obj\Debug\KcciImageEditor.csprojResolveAssemblyReference.cache
+C:\Users\KIMU\AppData\Local\Temporary Projects\KcciImageEditor\obj\Debug\KcciImageEditor.imgEditor.resources
+C:\Users\KIMU\AppData\Local\Temporary Projects\KcciImageEditor\obj\Debug\KcciImageEditor.Properties.Resources.resources
+C:\Users\KIMU\AppData\Local\Temporary Projects\KcciImageEditor\obj\Debug\KcciImageEditor.csproj.GenerateResource.Cache
+C:\Users\KIMU\AppData\Local\Temporary Projects\KcciImageEditor\obj\Debug\KcciImageEditor.exe
+C:\Users\KIMU\AppData\Local\Temporary Projects\KcciImageEditor\obj\Debug\KcciImageEditor.pdb
+D:\상공회의소\01.발급시스템 및 공용인터페이스\샘플소스\KcciImageEditor\KcciImageEditor\bin\Debug\KcciImageEditor.exe.config
+D:\상공회의소\01.발급시스템 및 공용인터페이스\샘플소스\KcciImageEditor\KcciImageEditor\bin\Debug\KcciImageEditor.exe.manifest
+D:\상공회의소\01.발급시스템 및 공용인터페이스\샘플소스\KcciImageEditor\KcciImageEditor\bin\Debug\KcciImageEditor.application
+D:\상공회의소\01.발급시스템 및 공용인터페이스\샘플소스\KcciImageEditor\KcciImageEditor\bin\Debug\KcciImageEditor.exe
+D:\상공회의소\01.발급시스템 및 공용인터페이스\샘플소스\KcciImageEditor\KcciImageEditor\bin\Debug\KcciImageEditor.pdb
+D:\상공회의소\01.발급시스템 및 공용인터페이스\샘플소스\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.csprojResolveAssemblyReference.cache
+D:\상공회의소\01.발급시스템 및 공용인터페이스\샘플소스\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.imgEditor.resources
+D:\상공회의소\01.발급시스템 및 공용인터페이스\샘플소스\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.Properties.Resources.resources
+D:\상공회의소\01.발급시스템 및 공용인터페이스\샘플소스\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.csproj.GenerateResource.Cache
+D:\상공회의소\01.발급시스템 및 공용인터페이스\샘플소스\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.TrustInfo.xml
+D:\상공회의소\01.발급시스템 및 공용인터페이스\샘플소스\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.exe.manifest
+D:\상공회의소\01.발급시스템 및 공용인터페이스\샘플소스\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.application
+D:\상공회의소\01.발급시스템 및 공용인터페이스\샘플소스\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.exe
+D:\상공회의소\01.발급시스템 및 공용인터페이스\샘플소스\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.pdb
+D:\상공회의소\SOURCE\기타프로그램\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.imgEditor.resources
+D:\상공회의소\SOURCE\기타프로그램\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.Properties.Resources.resources
+D:\상공회의소\SOURCE\기타프로그램\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.csproj.GenerateResource.cache
+D:\상공회의소\SOURCE\기타프로그램\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.csproj.CoreCompileInputs.cache
+D:\상공회의소\SOURCE\기타프로그램\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.TrustInfo.xml
+D:\상공회의소\SOURCE\기타프로그램\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.exe
+D:\상공회의소\SOURCE\기타프로그램\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.pdb
+D:\상공회의소\SOURCE\기타프로그램\KcciImageEditor\KcciImageEditor\bin\Debug\KcciImageEditor.exe.config
+D:\상공회의소\SOURCE\기타프로그램\KcciImageEditor\KcciImageEditor\bin\Debug\KcciImageEditor.exe.manifest
+D:\상공회의소\SOURCE\기타프로그램\KcciImageEditor\KcciImageEditor\bin\Debug\KcciImageEditor.application
+D:\상공회의소\SOURCE\기타프로그램\KcciImageEditor\KcciImageEditor\bin\Debug\KcciImageEditor.exe
+D:\상공회의소\SOURCE\기타프로그램\KcciImageEditor\KcciImageEditor\bin\Debug\KcciImageEditor.pdb
+D:\상공회의소\SOURCE\기타프로그램\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.exe.manifest
+D:\상공회의소\SOURCE\기타프로그램\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.application
+D:\상공회의소\SOURCE\기타프로그램\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.csprojAssemblyReference.cache
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\bin\Debug\KcciImageEditor.exe.config
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\bin\Debug\KcciImageEditor.exe.manifest
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\bin\Debug\KcciImageEditor.application
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\bin\Debug\KcciImageEditor.exe
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\bin\Debug\KcciImageEditor.pdb
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\bin\Debug\Costura.dll
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\bin\Debug\Costura.pdb
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\bin\Debug\Costura.xml
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.csproj.AssemblyReference.cache
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.csproj.SuggestedBindingRedirects.cache
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.imgEditor.resources
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.Properties.Resources.resources
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.csproj.GenerateResource.cache
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.csproj.CoreCompileInputs.cache
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.csproj.Fody.CopyLocal.cache
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.TrustInfo.xml
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.exe.manifest
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.application
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.csproj.CopyComplete
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.exe
+D:\private_project\Kenshukimu'sPlayground\KcciImageEditor\KcciImageEditor\obj\Debug\KcciImageEditor.pdb
